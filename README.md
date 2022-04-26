@@ -4,6 +4,7 @@
 
 <p><em>Estudante do curso Sistema de Informações pela <a href="https://www.fiap.com.br/">FIAP</a> <img src="https://c.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width=30></em></p> 
 
+---
 
 **👤 Sobre mim:** 
 
