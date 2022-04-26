@@ -5,3 +5,4 @@
 <p><em>Estudante do curso Sistema de Informações pela <a href="https://www.fiap.com.br/">FIAP</a></em></p>
 
 Eu me chamo Guilherme Chalita, sou estudante de Sistema de Informações pela FIAP e atualmente focado em Python, procurando desenvolver minhas habilidades na linguagem em diversas áreas como Web Scraping, OpenCV e automação de tarefas. Durante minha rotina de jogos e estudos fico pensando em como poderia realizar uma tarefa de modo automático, procuro sempre tentar deixar o trabalho mais tranquilo e eficaz.
+   <img align="right" alt="GIF" src="https://drpoesiahome.files.wordpress.com/2020/11/gifffff.gif" width="500" height="320" />
