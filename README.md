@@ -2,11 +2,11 @@
 
 [![Linkedin: guilhermechalita](https://img.shields.io/badge/-guilhermechalita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermechalita/)](https://www.linkedin.com/in/guilhermechalita/)
 
-<p><em>Estudante do curso Sistema de Informações pela <a href="https://www.fiap.com.br/">FIAP</a> <img src="https://c.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width=30></em></p> 
+<p><em>Estudante do curso Sistema de Informações pela <a href="https://www.fiap.com.br/">FIAP</a> <img src="https://c.tenor.com/wdWF2o1XL-0AAAAi/noted-safehouse.gif" width=30></em></p>
 
 ---
 
-**👤 Sobre mim:** 
+### <img src="https://c.tenor.com/rPjR1FPTgIQAAAAi/pepe-pjs-pepe-dance.gif" width="30"> Sobre mim
 
 Eu me chamo Guilherme Chalita, sou estudante de Sistema de Informações pela FIAP e atualmente focado em Python, procurando desenvolver minhas habilidades na linguagem em diversas áreas como Web Scraping, OpenCV e automação de tarefas. Durante minha rotina de jogos e estudos fico pensando em como poderia realizar uma tarefa de modo automático, procuro sempre tentar deixar o trabalho mais tranquilo e eficaz.
 
@@ -15,7 +15,7 @@ Eu me chamo Guilherme Chalita, sou estudante de Sistema de Informações pela FI
 - 💬 Fique a vontade para me chamar e conversar
 - 📩 [E-mail para contato](mailto:guilhermehchalita@gmail.com)
 
-**⚙ Linguagens e ferramentas:**
+### <img src="https://c.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="30"> Linguagens e ferramentas:
    
 <code><img height="30" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/python.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/javascript.svg"></code>
