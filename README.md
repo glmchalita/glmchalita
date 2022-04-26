@@ -1,5 +1,8 @@
 <h2>Opa, tudo bom?</h2>
+
 [![Linkedin: guilhermechalita](https://img.shields.io/badge/-guilhermechalita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermechalita/)](https://www.linkedin.com/in/guilhermechalita/)
+
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
 
 <p> Estudante do curso Sistema de Informações pela <a href="https://www.fiap.com.br/">FIAP</a>
 
