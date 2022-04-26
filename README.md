@@ -28,7 +28,7 @@ Eu me chamo Guilherme Chalita, sou estudante de Sistema de Informações pela FI
 
 <br/><br/><br/><br/><br/><br/>
 
-📈 Github Stats
+### 📈 Github Stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=glmchalita&show_icons=true&theme=gotham" alt="glmchalita" />
    
 ---
