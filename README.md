@@ -26,7 +26,7 @@ Eu me chamo Guilherme Chalita, sou estudante de Sistema de Informações pela FI
 <code><img height="30" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/ides/pycharm.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/cloud/heroku.svg"></code>
 
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
 📈 Github Stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=glmchalita&show_icons=true&theme=gotham" alt="glmchalita" />
