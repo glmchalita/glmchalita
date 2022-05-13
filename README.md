@@ -1,4 +1,4 @@
-<h2>Opa, tudo bom? <img src="https://c.tenor.com/OBV6cg3yBO4AAAAi/mlady.gif" width=50></h2>
+<h2>Opa, tudo bom?</h2>
 
 [![Linkedin: guilhermechalita](https://img.shields.io/badge/-guilhermechalita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermechalita/)](https://www.linkedin.com/in/guilhermechalita/)
 
