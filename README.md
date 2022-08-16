@@ -11,9 +11,7 @@
 Eu me chamo Guilherme Chalita, sou estudante de Sistemas de Informação pela FIAP e atualmente focado em Python, procurando desenvolver minhas habilidades na linguagem em diversas áreas como Web Scraping, OpenCV e automação de tarefas. Durante minha rotina de jogos e estudos fico pensando em como poderia realizar uma tarefa de modo automático, procuro sempre tentar deixar o trabalho mais tranquilo e eficaz.
 
 <img align="right" alt="GIF" src="https://drpoesiahome.files.wordpress.com/2020/11/gifffff.gif" width="450" height="288" />
-   
-- 💬 Fique a vontade para me chamar e conversar
-- 📩 [E-mail para contato](mailto:guilhermehchalita@gmail.com)
+ 
 
 ### Linguagens e ferramentas:
    
