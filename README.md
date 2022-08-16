@@ -15,7 +15,7 @@ Eu me chamo Guilherme Chalita, sou estudante de Sistemas de Informação pela FI
 - 💬 Fique a vontade para me chamar e conversar
 - 📩 [E-mail para contato](mailto:guilhermehchalita@gmail.com)
 
-### <img src="https://c.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="30"> Linguagens e ferramentas:
+### Linguagens e ferramentas:
    
 <code><img height="30" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/python.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/javascript.svg"></code>
