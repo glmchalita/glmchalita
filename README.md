@@ -6,7 +6,7 @@
 
 ---
 
-### <img src="https://c.tenor.com/rPjR1FPTgIQAAAAi/pepe-pjs-pepe-dance.gif" width="30"> Sobre mim
+### Sobre mim
 
 Eu me chamo Guilherme Chalita, sou estudante de Sistemas de Informação pela FIAP e atualmente focado em Python, procurando desenvolver minhas habilidades na linguagem em diversas áreas como Web Scraping, OpenCV e automação de tarefas. Durante minha rotina de jogos e estudos fico pensando em como poderia realizar uma tarefa de modo automático, procuro sempre tentar deixar o trabalho mais tranquilo e eficaz.
 
