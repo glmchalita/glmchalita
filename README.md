@@ -1,14 +1,14 @@
-<h2>Opa, tudo bom?</h2>
+<h2>Bem-vindo ao meu perfil</h2>
 
 [![Linkedin: guilhermechalita](https://img.shields.io/badge/-guilhermechalita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermechalita/)](https://www.linkedin.com/in/guilhermechalita/)
 
-<p><em>Estudante do curso Sistemas de Informação pela <a href="https://www.fiap.com.br/">FIAP</a> <img src="https://c.tenor.com/wdWF2o1XL-0AAAAi/noted-safehouse.gif" width=30></em></p>
+<p><em>Bacharel em Sistemas de Informação pela <a href="https://www.fiap.com.br/">FIAP</a> <img src="https://c.tenor.com/wdWF2o1XL-0AAAAi/noted-safehouse.gif" width=30></em></p>
 
 ---
 
 ### Sobre mim
 
-Eu me chamo Guilherme Chalita, sou estudante de Sistemas de Informação pela FIAP e atualmente focado em Python, procurando desenvolver minhas habilidades na linguagem em diversas áreas como Web Scraping, OpenCV e automação de tarefas. Durante minha rotina de jogos e estudos fico pensando em como poderia realizar uma tarefa de modo automático, procuro sempre tentar deixar o trabalho mais tranquilo e eficaz.
+Sou Guilherme Chalita, um jovem profissional de 22 anos, natural de São Paulo, SP. Sou bacharel em Sistemas de Informação e possuo 2 anos de experiência em desenvolvimento com a linguagem de programação Python. Atualmente, estou expandindo meu conjunto de habilidades, aprendendo HTML, CSS e JavaScript, para desenvolver soluções mais completas e integradas.
 
 <img align="right" alt="GIF" src="https://drpoesiahome.files.wordpress.com/2020/11/gifffff.gif" width="450" height="288" />
  
