@@ -6,7 +6,12 @@
 
 ### Main skills:
 
-<p><a target="_blank" href="https://github.com/"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117" alt="Github"></a></p>
+<p>
+<a target="_blank" href="https://github.com/"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117" alt="Github"></a>
+<a target="_blank" href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117" alt="Git"></a>
+<a target="_blank" href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117" alt="Python"></a>
+<a target="_blank" href="https://discordpy.readthedocs.io/en/stable/"><img src="https://img.shields.io/badge/-Discord-0D1117?style=for-the-badge&logo=discord&labelColor=0D1117" alt="Discordpy"></a>
+</p>
 
 ### Tools:
 
