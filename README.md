@@ -31,7 +31,7 @@
 ### Studying in this moment:
 
 <a target="_blank" href="https://www.javascript.com/"><img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=007ACC&labelColor=0D1117" alt="JavaScript"></a>
-<a target="_blank" href=""><img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html&logoColor=007ACC&labelColor=0D1117" alt="HTML"></a>
+<a target="_blank" href=""><img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=007ACC&labelColor=0D1117" alt="HTML"></a>
 <a target="_blank" href=""><img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&logoColor=007ACC&labelColor=0D1117" alt="CSS"></a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f2f2f2&height=120&section=footer"/>
