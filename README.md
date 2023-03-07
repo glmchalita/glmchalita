@@ -25,15 +25,13 @@
 
 ### Other Knowledge:
 
-![Tailwind](https://img.shields.io/badge/-tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=Bootstrap&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+<a target="_blank" href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=007ACC&labelColor=0D1117" alt="MySQL"></a>
+<a target="_blank" href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=007ACC&labelColor=0D1117" alt="PostgreSQL"></a>
 
 ### Studying in this moment:
 
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![EXPRESS](https://img.shields.io/badge/-EXPRESS-0D1117?style=for-the-badge&logo=EXPRESS&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![MONGODB](https://img.shields.io/badge/-MONGODB-0D1117?style=for-the-badge&logo=MONGODB&logoColor=1572B6&labelColor=0D1117)&nbsp;
+<a target="_blank" href="https://www.javascript.com/"><img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=007ACC&labelColor=0D1117" alt="JavaScript"></a>
+<a target="_blank" href=""><img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html&logoColor=007ACC&labelColor=0D1117" alt="HTML"></a>
+<a target="_blank" href=""><img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&logoColor=007ACC&labelColor=0D1117" alt="CSS"></a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f2f2f2&height=120&section=footer"/>
