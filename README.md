@@ -1,4 +1,3 @@
-
 <h2>Bem-vindo ao meu perfil</h2>
 
 [![Linkedin: guilhermechalita](https://img.shields.io/badge/-guilhermechalita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermechalita/)](https://www.linkedin.com/in/guilhermechalita/)
@@ -9,19 +8,20 @@
 
 ### Sobre mim
 
-Sou Guilherme Hideki Takara Chalita, um jovem profissional de 22 anos, natural de São Paulo, SP. Sou bacharel em Sistemas de Informação e possuo 2 anos de experiência em desenvolvimento com a linguagem de programação Python. Além disso, possuo habilidades em Web Scraping, OCR, API, MySQL e PostgreSQL. Atualmente, estou expandindo meu conjunto de habilidades, aprendendo HTML, CSS e JavaScript, para desenvolver soluções mais completas e integradas. 
+Sou Guilherme Hideki Takara Chalita, um jovem profissional de 22 anos, natural de São Paulo, SP. Sou bacharel em Sistemas de Informação e possuo 2 anos de experiência em desenvolvimento com a linguagem de programação Python. Além disso, possuo habilidades em Web Scraping, OCR, API, MySQL e PostgreSQL. Atualmente, estou expandindo meu conjunto de habilidades, aprendendo HTML, CSS e JavaScript, para desenvolver soluções mais completas e integradas.
 
 ### Linguagens e ferramentas:
-   
-| Coluna 1 | Coluna 2 |
-| -------- | -------- |
-| Dado 1a  | Dado 2a  |
-| Dado 1b  | Dado 2b  |
-| Dado 1c  | Dado 2c  |
+
+| Habilidades | Aprendendo |
+| ----------- | ---------- |
+| Dado 1a     | Dado 2a    |
+| Dado 1b     | Dado 2b    |
+| Dado 1c     | Dado 2c    |
 
 <br/><br/><br/><br/><br/><br/><br/>
 
 ### 📈 Github Stats
+
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=glmchalita&show_icons=true&theme=gotham" alt="glmchalita" />
    
 ---
