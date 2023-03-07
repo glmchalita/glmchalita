@@ -8,7 +8,7 @@
 
 ### Sobre mim
 
-Sou Guilherme Chalita, um jovem profissional de 22 anos, natural de São Paulo, SP. Sou bacharel em Sistemas de Informação e possuo 2 anos de experiência em desenvolvimento com a linguagem de programação Python. Atualmente, estou expandindo meu conjunto de habilidades, aprendendo HTML, CSS e JavaScript, para desenvolver soluções mais completas e integradas.
+Sou Guilherme Hideki Takara Chalita, um jovem profissional de 22 anos, natural de São Paulo, SP. Sou bacharel em Sistemas de Informação e possuo 2 anos de experiência em desenvolvimento com a linguagem de programação Python. Além disso, possuo habilidades em Web Scraping, OCR, API, MySQL e PostgreSQL. Atualmente, estou expandindo meu conjunto de habilidades, aprendendo HTML, CSS e JavaScript, para desenvolver soluções mais completas e integradas.
 
 <img align="right" alt="GIF" src="https://drpoesiahome.files.wordpress.com/2020/11/gifffff.gif" width="450" height="288" />
  
