@@ -6,7 +6,7 @@
 
 ### Main skills:
 
-<p><a href="https://github.com/"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117" alt="Github" target="_blank"></a></p>
+<p><a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117" alt="Github"></a></p>
 
 ### Tools:
 
