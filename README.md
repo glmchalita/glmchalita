@@ -1,28 +1,35 @@
-<h2>Bem-vindo ao meu perfil</h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f2f2f2&height=120&section=header"/>
 
-[![Linkedin: guilhermechalita](https://img.shields.io/badge/-guilhermechalita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermechalita/)](https://www.linkedin.com/in/guilhermechalita/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Robinho+de+Oliveira+Biscaro;I'm+22+years+old;I'm+from+Brazil,+SP;I+study+Web+Development+at+IronHack;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<p><em>Bacharel em Sistemas de Informação pela <a href="https://www.fiap.com.br/">FIAP</a> <img src="https://c.tenor.com/wdWF2o1XL-0AAAAi/noted-safehouse.gif" width=30></em></p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lukasbiscaro&bg_color=0e1117&color=7a7a7a&line=00b5c2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
+### Main skills:
 
-### Sobre mim
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
-Sou Guilherme Hideki Takara Chalita, um jovem profissional de 22 anos, natural de São Paulo, SP. Sou bacharel em Sistemas de Informação e possuo 2 anos de experiência em desenvolvimento com a linguagem de programação Python. Além disso, possuo habilidades em Web Scraping, OCR, API, MySQL e PostgreSQL. Atualmente, estou expandindo meu conjunto de habilidades, aprendendo HTML, CSS e JavaScript, para desenvolver soluções mais completas e integradas.
+### Tools:
 
-### Linguagens e ferramentas:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
-| Habilidades | Aprendendo |
-| ----------- | ---------- |
-| Dado 1a     | Dado 2a    |
-| Dado 1b     | Dado 2b    |
-| Dado 1c     | Dado 2c    |
+### Other Knowledge:
 
-<br/><br/><br/><br/><br/><br/><br/>
+![Tailwind](https://img.shields.io/badge/-tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=Bootstrap&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
-### 📈 Github Stats
+### Studying in this moment:
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=glmchalita&show_icons=true&theme=gotham" alt="glmchalita" />
-   
----
-<p><img src="https://c.tenor.com/EdsxVExcR6oAAAAi/pepe-leaving-leaving-pepe.gif" width="75"></p>
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![EXPRESS](https://img.shields.io/badge/-EXPRESS-0D1117?style=for-the-badge&logo=EXPRESS&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![MONGODB](https://img.shields.io/badge/-MONGODB-0D1117?style=for-the-badge&logo=MONGODB&logoColor=1572B6&labelColor=0D1117)&nbsp;
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f2f2f2&height=120&section=footer"/>
