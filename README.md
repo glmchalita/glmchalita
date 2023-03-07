@@ -17,7 +17,7 @@
 
 <p>
 <a target="_blank" href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117" alt="Visual Studio Code"></a>
-<a target="_blank" href="https://www.jetbrains.com/pt-br/pycharm/"><img src="https://img.shields.io/badge/-Pycharm-0D1117?style=for-the-badge&logo=pycharm&logoColor=0D1117&labelColor=0D1117" alt="Pycharm"></a>
+<a target="_blank" href="https://www.jetbrains.com/pt-br/pycharm/"><img src="https://img.shields.io/badge/-Pycharm-0D1117?style=for-the-badge&logo=pycharm&logoColor=007ACC&labelColor=0D1117" alt="Pycharm"></a>
 <a target="_blank" href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117" alt="Git"></a>
 <a target="_blank" href="https://github.com/"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117" alt="Github"></a>
 <a target="_blank" href="https://www.microsoft.com/pt-br/microsoft-365"><img src="https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117" alt="Microsoft Office"></a>
