@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=858AE3&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DEE0F7&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=97DFFC&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Guilherme+Chalita;I'm+22+years+old;I'm+from+Brazil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -34,4 +34,4 @@
 <a target="_blank" href=""><img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117" alt="HTML"></a>
 <a target="_blank" href=""><img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logoColor=007ACC&logo=css3&labelColor=0D1117" alt="CSS"></a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=858AE3&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DEE0F7&height=120&section=footer"/>
