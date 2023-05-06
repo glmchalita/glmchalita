@@ -1,8 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EFF0FB&height=120&section=header"/>
+# Guilherme Chalita
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=97DFFC&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Guilherme+Chalita;I'm+22+years+old;I'm+from+Brazil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=glmchalita&bg_color=0e1117&color=7a7a7a&line=97DFFC&area_color=D9F7FA&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Chalita-996DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermechalita/)](https://www.linkedin.com/in/guilhermechalita/)
+[![Gmail Badge](https://img.shields.io/badge/-guilhermehchalita@gmail.com-996DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermehchalita@gmail.com)](mailto:guilhermehchalitaf@gmail.com)
 
 ### Main skills:
 
@@ -25,11 +24,11 @@
 
 <a target="_blank" href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=007ACC&labelColor=0D1117" alt="MySQL"></a>
 <a target="_blank" href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117" alt="PostgreSQL"></a>
-
-### Studying in this moment:
-
 <a target="_blank" href="https://www.javascript.com/"><img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117" alt="JavaScript"></a>
 <a target="_blank" href=""><img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117" alt="HTML"></a>
 <a target="_blank" href=""><img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logoColor=007ACC&logo=css3&labelColor=0D1117" alt="CSS"></a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EFF0FB&height=120&section=footer"/>
+### Studying in this moment:
+
+<a target="_blank" href="https://react.dev/"><img src="https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117" alt="React"></a>
+<a target="_blank" href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117" alt="Django"></a>
