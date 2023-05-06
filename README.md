@@ -1,7 +1,7 @@
 # Guilherme Chalita
 
-[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Chalita-702963?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermechalita/)](https://www.linkedin.com/in/guilhermechalita/)
-[![Gmail Badge](https://img.shields.io/badge/-guilhermehchalita@gmail.com-702963?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermehchalita@gmail.com)](mailto:guilhermehchalitaf@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Chalita-996DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermechalita/)](https://www.linkedin.com/in/guilhermechalita/)
+[![Gmail Badge](https://img.shields.io/badge/-guilhermehchalita@gmail.com-996DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermehchalita@gmail.com)](mailto:guilhermehchalitaf@gmail.com)
 
 ### Main skills:
 
