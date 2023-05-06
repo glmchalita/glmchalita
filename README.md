@@ -24,9 +24,11 @@
 
 <a target="_blank" href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=007ACC&labelColor=0D1117" alt="MySQL"></a>
 <a target="_blank" href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117" alt="PostgreSQL"></a>
-
-### Studying in this moment:
-
 <a target="_blank" href="https://www.javascript.com/"><img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117" alt="JavaScript"></a>
 <a target="_blank" href=""><img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117" alt="HTML"></a>
 <a target="_blank" href=""><img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logoColor=007ACC&logo=css3&labelColor=0D1117" alt="CSS"></a>
+
+### Studying in this moment:
+
+<a target="_blank" href="https://react.dev/"><img src="https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117" alt="React"></a>
+<a target="_blank" href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117" alt="Django"></a>
